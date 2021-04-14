@@ -7,6 +7,7 @@
 - https://npmjs.com/package/@aeroware/aeroclient
 - https://www.npmjs.com/package/cdcommands
 - https://www.npmjs.com/package/sern_handler
+- https://www.npmjs.com/package/wokcommands
 
 **Github Links**
 - https://github.com/jacobperry0909/zoro-utils
@@ -15,4 +16,4 @@
 - https://github.com/aero-ware/aeroclient
 - https://github.com/CreativeDevelopments/CDCommands
 - https://github.com/jacoobes/sern_handler
-
+- https://github.com/AlexzanderFlores/WOKCommands
