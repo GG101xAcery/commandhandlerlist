@@ -17,3 +17,5 @@
 - https://github.com/CreativeDevelopments/CDCommands
 - https://github.com/jacoobes/sern_handler
 - https://github.com/AlexzanderFlores/WOKCommands
+- https://github.com/canta-slaus/bot-prefab
+- https://github.com/EmanSza/NovaOpenSource
