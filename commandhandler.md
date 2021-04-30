@@ -8,6 +8,7 @@
 - https://www.npmjs.com/package/cdcommands
 - https://www.npmjs.com/package/sern_handler
 - https://www.npmjs.com/package/wokcommands
+- https://www.npmjs.com/package/mysticmds
 
 **Github Links**
 - https://github.com/jacobperry0909/zoro-utils
