@@ -9,6 +9,7 @@
 - https://www.npmjs.com/package/sern_handler
 - https://www.npmjs.com/package/wokcommands
 - https://www.npmjs.com/package/mysticmds
+- https://www.npmjs.com/package/slashcord
 
 **Github Links**
 - https://github.com/jacobperry0909/zoro-utils
@@ -20,3 +21,4 @@
 - https://github.com/AlexzanderFlores/WOKCommands
 - https://github.com/canta-slaus/bot-prefab
 - https://github.com/EmanSza/NovaOpenSource
+- https://github.com/MysticIsSus/slashcord
